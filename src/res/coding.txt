@@ -58,3 +58,10 @@ How does the static keyword affect a class member?
 How can you create a multi-dimensional array in C++?
 How do you initialize a std::pair?
 What is the purpose of the decltype keyword?
+What is the difference between std::move and std::forward?
+What are rvalue references and why are they useful?
+What is the difference between deep copy and shallow copy?
+What are function pointers and how do you use them?
+How do you overload operators in C++?
+How do you detect memory leaks in a C++ program?
+What is the purpose of std::allocator?
