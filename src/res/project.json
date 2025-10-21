@@ -161,6 +161,48 @@
             "description": "Simulate rolling a pair of dice.",
             "hint": "Use the random number library to generate pseudo-random numbers between 1 and 6. [Learn about the random number library](https://en.cppreference.com/w/cpp/numeric/random)",
             "level": "Beginner"
+        },
+        {
+            "title": "Number Guessing Game",
+            "description": "Make a program that lets the user guess a number the computer randomly selects.",
+            "hint": "Use a random number generator and conditional statements to check guesses.",
+            "level": "Beginner"
+        },
+        {
+            "title": "Temperature Logger",
+            "description": "Store a series of temperature readings and compute average, highest, and lowest values.",
+            "hint": "Use a vector to store readings and iterate to calculate statistics.",
+            "level": "Beginner"
+        },
+        {
+            "title": "Simple Bank Account System",
+            "description": "Create a program that allows deposit, withdrawal, and balance checking operations.",
+            "hint": "Use functions or a class to encapsulate account operations.",
+            "level": "Intermediate"
+        },
+        {
+            "title": "File Word Counter",
+            "description": "Count how many times each word appears in a given text file.",
+            "hint": "Use std::map to store words and counts, and file input streams to read data.",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Student Grades Manager",
+            "description": "Create a program that stores student data and calculates average grades.",
+            "hint": "Use structs or classes to store name, roll number, and grades.",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Tic-Tac-Toe Game",
+            "description": "Create a simple 2-player Tic-Tac-Toe game for console.",
+            "hint": "Use a 3x3 array and alternating turns to track X and O moves.",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Rock-Paper-Scissors Game",
+            "description": "Simulate a rock-paper-scissors game between user and computer.",
+            "hint": "Use conditionals to determine game outcomes.",
+            "level": "Beginner"
         }
     ]
 }

@@ -14,3 +14,10 @@ What are your favorite resources for learning C++?
 What is the most difficult part of C++?
 What are your favorite C++ features?
 What motivated you to learn C++?
+What’s a C++ concept that confused you the most at first?
+How do you organize multi-file C++ projects?
+What are your code formatting preferences?
+Have you tried mixing C++ with other languages (like Python or C)?
+What naming convention do you prefer in your projects?
+What are your code formatting preferences?
+How do you decide when to use templates?
